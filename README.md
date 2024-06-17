@@ -45,13 +45,13 @@ gendiff -h
 
 gendiff file1.json file2.json
 ![Снимок экрана от 2024-06-17 19-38-54]
-<a href="[https://asciinema.org/a/VG16xIhX9PgDoc91L5GXddZfE]" target="_blank"><img src="https://asciinema.org/a/VG16xIhX9PgDoc91L5GXddZfE.svg" /></a>
+<a href="https://asciinema.org/a/VG16xIhX9PgDoc91L5GXddZfE" target="_blank"><img src="https://asciinema.org/a/VG16xIhX9PgDoc91L5GXddZfE.svg" /></a>
 
 ```
 gendiff file1.yml file2.yml
 ```
 ![Снимок экрана от 2024-06-17 19-44-35](https://asciinema.org/a/HzxHuJLKwmLz399e9c2jjLx0v)
-<a href="[https://asciinema.org/a/HzxHuJLKwmLz399e9c2jjLx0v]" target="_blank"><img src="https://asciinema.org/a/HzxHuJLKwmLz399e9c2jjLx0v.svg" /></a>
+<a href="https://asciinema.org/a/HzxHuJLKwmLz399e9c2jjLx0v" target="_blank"><img src="https://asciinema.org/a/HzxHuJLKwmLz399e9c2jjLx0v.svg" /></a>
 
 ```
 gendiff --format plain file1.json file2.json
