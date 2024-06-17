@@ -42,26 +42,24 @@ gendiff file1.json file2.json
 ```
 gendiff -h
 ```
-![Снимок экрана от 2023-09-20 14-44-54](https://github.com/nikitusyandra/frontend-project-46/assets/120372224/02b28de8-1653-4f42-bf6e-725b2837edfe)
 
-The default output is `stylish`, but it can also be `plain` and `json`. To output the result in a specific format, use `-f [format]`.
-
-## An example of stylish format output: 
-```
 gendiff file1.json file2.json
+![Снимок экрана от 2024-06-17 19-38-54](https://asciinema.org/a/VG16xIhX9PgDoc91L5GXddZfE)
+
+```
 gendiff file1.yml file2.yml
 ```
-![Снимок экрана от 2023-09-20 14-52-08](https://github.com/nikitusyandra/frontend-project-46/assets/120372224/e6b57d85-8139-46ee-9fff-ff9b4708c552)
-## Example of plain format output:
+![Снимок экрана от 2024-06-17 19-44-35](https://asciinema.org/a/HzxHuJLKwmLz399e9c2jjLx0v)
+
 ```
 gendiff --format plain file1.json file2.json
 ```
-![Снимок экрана от 2023-10-09 14-25-40](https://github.com/nikitusyandra/frontend-project-46/assets/120372224/e69e86df-c89a-4c0d-9885-3a234acd2b9a)
-## Example of json format output:
+![Снимок экрана от 2024-06-17 19-48-48](https://asciinema.org/a/NUpYFmB9KxkR26eqKo15JGtLh)
+
 ```
 gendiff -f json file1.json file2.json
 ```
-![изображение](https://github.com/nikitusyandra/frontend-project-46/assets/120372224/95d4dbb9-5562-4bbc-b95b-43a26e5305f3)
+![изображение](https://asciinema.org/a/M0EFJny6u1K6IgbSMotlyulZ4)
 
 
 
