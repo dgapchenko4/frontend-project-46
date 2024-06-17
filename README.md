@@ -50,18 +50,20 @@ gendiff file1.json file2.json
 ```
 gendiff file1.yml file2.yml
 ```
-![Снимок экрана от 2024-06-17 19-44-35](https://asciinema.org/a/HzxHuJLKwmLz399e9c2jjLx0v)
+![Снимок экрана от 2024-06-17 19-44-35]
 <a href="https://asciinema.org/a/HzxHuJLKwmLz399e9c2jjLx0v" target="_blank"><img src="https://asciinema.org/a/HzxHuJLKwmLz399e9c2jjLx0v.svg" /></a>
 
 ```
 gendiff --format plain file1.json file2.json
 ```
-![Снимок экрана от 2024-06-17 19-48-48](https://asciinema.org/a/NUpYFmB9KxkR26eqKo15JGtLh)
+![Снимок экрана от 2024-06-17 19-48-48]
+<a href="https://asciinema.org/a/NUpYFmB9KxkR26eqKo15JGtLh" target="_blank"><img src="https://asciinema.org/a/NUpYFmB9KxkR26eqKo15JGtLh.svg" /></a>
 
 ```
 gendiff -f json file1.json file2.json
 ```
-![изображение](https://asciinema.org/a/M0EFJny6u1K6IgbSMotlyulZ4)
+![Снимок экрана от 2024-06-17 19-55-44]
+<a href="https://asciinema.org/a/M0EFJny6u1K6IgbSMotlyulZ4" target="_blank"><img src="https://asciinema.org/a/M0EFJny6u1K6IgbSMotlyulZ4.svg" /></a>
 
 
 
